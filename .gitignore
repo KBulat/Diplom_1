@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+.pytest_cache/
+tests/__pycache__/
+praktikum/__pycache__/
+
+# IDE
+.vscode/
+.coverage
